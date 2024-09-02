@@ -1,0 +1,33 @@
+[
+  {
+    "SurName": "Doe",
+    "FirstName": "John",
+    "LastName": "Smith",
+    "DateOfBirth": "1990-01-01",
+    "PassportNumber": "A1234567",
+    "PassportIssueDate": "2015-01-01",
+    "PassportExpiryDate": "2025-01-01",
+    "PassportIssueCountry": "Morocco",
+    "PassportType": "Ordinary",
+    "IssuePlace": "Rabat",
+    "CountryOfResidence": "Morocco",
+    "Mobile": "612345678",
+    "Email": "john.doe@example.com"
+  },
+  {
+    "SurName": "Brown",
+    "FirstName": "Alice",
+    "LastName": "Johnson",
+    "DateOfBirth": "1985-05-15",
+    "PassportNumber": "B7654321",
+    "PassportIssueDate": "2016-06-20",
+    "PassportExpiryDate": "2026-06-20",
+    "PassportIssueCountry": "Morocco",
+    "PassportType": "Diplomatic",
+    "IssuePlace": "Casablanca",
+    "CountryOfResidence": "Morocco",
+    "Mobile": "612345679",
+    "Email": "alice.brown@example.com"
+  }
+  // Ajoutez autant d'entrées que nécessaire
+]
